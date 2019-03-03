@@ -4,6 +4,7 @@ public class SmokeTest {
 
 	public static void main(String[] args) {
 	
+		//New comment from salim
 		A apple = new A();
 		apple.m1();
 		
